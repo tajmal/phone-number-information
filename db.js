@@ -7,7 +7,7 @@ module.exports.db =[
     "example": []
   },
   {
-    "name": "Albania",
+    "name": "Pakistan",
     "iso": "al",
     "code": "355",
     "operators": [],
